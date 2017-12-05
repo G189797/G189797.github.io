@@ -1,0 +1,181 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolt-design.club" resolutions="1x" timestamp="1512508316593">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3785125261" ref="index:contact:portfolio:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="317755173" ref="index:contact:portfolio:about"/>
+    <file name="index.css" crc="466542041" ref="index"/>
+    <file name="nomq_index.css" crc="3938802479" ref="index"/>
+    <file name="contact.css" crc="4024704771" ref="contact"/>
+    <file name="nomq_contact.css" crc="4140171392" ref="contact"/>
+    <file name="portfolio.css" crc="211137915" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="394194392" ref="portfolio"/>
+    <file name="about.css" crc="490562702" ref="about"/>
+    <file name="nomq_about.css" crc="531729345" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact"/>
+    <file name="form_check.php" crc="62300408" ref="contact"/>
+    <file name="form_process.php" crc="91775217" ref="contact"/>
+    <file name="form-u969.php" crc="429460617" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="this-bolt.svg" crc="69111496" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="this bolt_poster_.png" crc="45527986" ref="index"/>
+    <file name="blue triangles-crop-u8865.png" crc="3827715716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="gare du nord-crop-u8986.jpg" crc="435635464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolita-crop-u9026.jpg" crc="4216101904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1984-crop-u9066.jpg" crc="283646384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue triangles-crop-u8857.png" crc="3829595653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gare du nord-crop-u8996.jpg" crc="3972495541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolita-crop-u9036.jpg" crc="290959203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1984-crop-u9076.jpg" crc="3983617858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
+    <file name="facebook icon.png" crc="4049605085" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pinterest icon.png" crc="129192817" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="linkedin icon.png" crc="4045767012" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blue triangles-crop-u88652.png" crc="3775043515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gare du nord-crop-u89862.jpg" crc="4139119297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolita-crop-u90262.jpg" crc="3779426158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1984-crop-u90662.jpg" crc="483715902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue triangles-crop-u88572.png" crc="3971111608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gare du nord-crop-u89962.jpg" crc="3892098546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lolita-crop-u90362.jpg" crc="470157723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1984-crop-u90762.jpg" crc="36433394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="me2.jpg" crc="4205152956" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="me2180x231.jpg" crc="34006735" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="arc de triomphe trace f-crop-u316.png" crc="4161522981" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hokusai_manga_priests_largejpg-crop-u714.png" crc="4104817345" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="black-bugatti-veyron-wallpaper-computer-hd-crop-u461.png" crc="381471416" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ferrari.png" crc="105614329" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pokemon copy-crop-u768.png" crc="138467891" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arc de triomphe trace f-crop-u3162.png" crc="57368342" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hokusai_manga_priests_largejpg-crop-u7142.png" crc="464322098" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="black-bugatti-veyron-wallpaper-computer-hd-crop-u4612.png" crc="3800241513" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ferrari128x202.png" crc="306266073" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pokemon copy-crop-u7682.png" crc="505437421" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-mobile-phone-7.svg" crc="4089837188" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="iconmonstr-mobile-phone-7_poster_.png" crc="3965583826" ref="contact"/>
+    <file name="iconmonstr-email-2.svg" crc="3812372316" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="iconmonstr-email-2_poster_.png" crc="425736908" ref="contact"/>
+    <file name="iconmonstr-mobile-phone-9.svg" crc="337098341" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="iconmonstr-mobile-phone-9_poster_.png" crc="4195028303" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="140758526" seo="true" mt="1512501827105" redirect="true"/>
+  <file name="about.html" crc="463063466" seo="true" mt="1512500993279" redirect="true"/>
+  <file name="portfolio.html" crc="391324121" seo="true" mt="1512500993279" redirect="true"/>
+  <file name="contact.html" crc="265678769" seo="true" mt="1512502680897" redirect="true"/>
+</manifest>
