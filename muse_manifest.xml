@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolt-design.club" resolutions="1x" timestamp="1513117025880">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolt-design.club" resolutions="1x" timestamp="1513117355659">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="215730839" ref="index:about:portfolio:contact"/>
@@ -185,8 +185,8 @@
     </file>
     <file name="iconmonstr-mobile-phone-9_poster_.png" crc="4195028303" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4255474745" seo="true" mt="1513116321176" redirect="true"/>
-  <file name="about.html" crc="3835434217" seo="true" mt="1513116321176" redirect="true"/>
-  <file name="portfolio.html" crc="4127835748" seo="true" mt="1513116321176" redirect="true"/>
-  <file name="contact.html" crc="287526875" seo="true" mt="1513116321176" redirect="true"/>
+  <file name="index.html" crc="4267693428" seo="true" mt="1513116321176" redirect="true"/>
+  <file name="about.html" crc="316741634" seo="true" mt="1513116321176" redirect="true"/>
+  <file name="portfolio.html" crc="228301861" seo="true" mt="1513116321176" redirect="true"/>
+  <file name="contact.html" crc="248685865" seo="true" mt="1513116321176" redirect="true"/>
 </manifest>
