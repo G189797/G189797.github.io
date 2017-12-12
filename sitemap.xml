@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolt-design.club/index.html</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -42,6 +42,9 @@
       <image:loc>http://bolt-design.club/images/linkedin%20icon.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://bolt-design.club/images/if_behance_287764.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://bolt-design.club/images/blue%20triangles-crop-u88652.png</image:loc>
     </image:image>
     <image:image>
@@ -68,7 +71,7 @@
   </url>
   <url>
     <loc>http://bolt-design.club/about.html</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -82,6 +85,9 @@
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/linkedin%20icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolt-design.club/images/if_behance_287764.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/me2.jpg</image:loc>
@@ -92,7 +98,7 @@
   </url>
   <url>
     <loc>http://bolt-design.club/portfolio.html</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -106,6 +112,9 @@
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/linkedin%20icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolt-design.club/images/if_behance_287764.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/arc%20de%20triomphe%20trace%20f-crop-u316.png</image:loc>
@@ -140,7 +149,7 @@
   </url>
   <url>
     <loc>http://bolt-design.club/contact.html</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -154,6 +163,9 @@
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/linkedin%20icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolt-design.club/images/if_behance_287764.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolt-design.club/images/iconmonstr-mobile-phone-7.svg</image:loc>
